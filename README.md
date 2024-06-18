@@ -49,9 +49,12 @@ We welcome contributions to improve the Women Safety Application. If you have su
 
 For any issues or support, please contact our support team at support@womensafetyapp.com.
 
-## License
+## Preview
+![WhatsApp Image 2024-06-18 at 10 58 57_526cf82c](https://github.com/kavyathegreat/Women-Safety-application/assets/149292618/6001c316-eec6-434c-85e4-07c7784a60df)
+![WhatsApp Image 2024-06-18 at 10 58 58_61ca2758](https://github.com/kavyathegreat/Women-Safety-application/assets/149292618/e05bee89-fd35-4224-9432-8f33054bb6bd)
+![WhatsApp Image 2024-06-18 at 10 58 58_7e861b36](https://github.com/kavyathegreat/Women-Safety-application/assets/149292618/46a733dd-8692-4cff-be7d-2de2b22f06fe)
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgements
 
